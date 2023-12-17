@@ -1,5 +1,5 @@
 body {
-  background-color: #C7A1E6;
+  background-color: #A785D8;
   color: #d4d5d9;
   font-family: "Montserrat", sans-serif;
 }
@@ -17,7 +17,7 @@ a:hover {
   margin: 30px auto;
   padding: 20px;
   border-radius: 10px;
-  background:#333060;
+  background:#3E2E73;
   background: linear-gradient(180deg, rgba(97, 105, 119, 1) 0%, rgba(59, 65, 81, 1) 100%);
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
@@ -38,7 +38,7 @@ a:hover {
 .search-form-button {
   margin-left: 5px;
   font-size: 12px;
-  background-color: #494e60;
+  background-color: #232042;
   color: #ffffff;
   border: none;
   padding: 10px;
