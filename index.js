@@ -111,4 +111,4 @@ function citySearchSubmit(event) {
 let searchCityForm = document.querySelector("#search-form");
 searchCityForm.addEventListener("submit", citySearchSubmit);
 
-searchCity("London");
+searchCity("Hua Hin");
