@@ -1,5 +1,5 @@
 body {
-  background-color: #A785D8;
+  background-color: #232042;
   color: #d4d5d9;
   font-family: "Montserrat", sans-serif;
 }
@@ -125,13 +125,13 @@ a:hover {
 .weather-forecast-day {
   padding: 10px;
   border-radius: 10px;
-  background-color: #484e5f;
+  background-color:#514891;
   width: 110px;
 }
 
 .weather-forecast-day:hover {
   transition: all 500ms ease;
-  background-color: #52596c;
+  background-color: #424EBC;
 }
 
 .weather-forecast-date {
